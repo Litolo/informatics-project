@@ -1,0 +1,1 @@
+This file is placed here only to add the posts directory into the github repository.
