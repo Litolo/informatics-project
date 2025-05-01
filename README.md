@@ -99,8 +99,6 @@ mvn exec:java -Dexec.mainClass="com.github.Litolo.RPS.Server"
 mvn exec:java -Dexec.mainClass="com.github.Litolo.RPS.Client"
 ```
 
----
-
 ### Rust
 Navigate to the relevant folder and run:
 - Use Case 1 & 2: `cargo build && cargo run`
